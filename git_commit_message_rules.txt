@@ -1,0 +1,7 @@
+Put subject and content in two separate lines, make a blank line in between.
+Start your subject with an uppercase.
+Use only 50 characters for the subject
+Write the subject in the imperative mode. For example, do not describe what have you changed or what was changed, 
+but write as if someone else must still do it. "Change text format".
+Wrap the body text in 72 characters - watch the right margin. - can also be automatised.
+What and why vs. how.
